@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seamus</h1>
-<h3 align="center">A full stack developer from Ireland</h3>
+<h3 align="center">A full stack developer from **N.Ireland** currently **living in Liverpool**</h3>
 
 - 🔭 I’m currently working on **building my portfolio.**
 
